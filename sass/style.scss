@@ -1,0 +1,12 @@
+@import "variable";
+@import "global";
+@import "header";
+@import "hero";
+@import "services";
+@import "teams";
+@import "contact";
+@import "gallery";
+
+html {
+    scroll-behavior: smooth;
+}
